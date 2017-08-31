@@ -33,6 +33,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.hjnerp.activity.contact.SearchQiXinFriendsActivity;
+import com.hjnerp.activity.im.SelectGroupChatMemberDeptActivity;
 import com.hjnerp.adapter.TabPagerAdapter;
 import com.hjnerp.business.Ctlm1345Update;
 import com.hjnerp.common.ActivitySupport;
@@ -95,10 +96,10 @@ public class MainActivity extends ActivitySupport implements
     public static int WORK_COUNT;
 
     private TextView main_title_text;
-//    private ImageView main_emp_icon;
+    private ImageView main_emp_icon;
     private ImageView main_search_icon;
-//    private ImageView main_phone_icon;
-//    private ImageView main_group_icon;
+    private ImageView main_phone_icon;
+    private ImageView main_group_icon;
     private ImageView main_find_icon;
     private ImageView main_refresh_icon;
     private List<Integer> title_list = new ArrayList<>();
@@ -210,9 +211,9 @@ public class MainActivity extends ActivitySupport implements
         main_tab_my_unread = (TextView) findViewById(R.id.main_tab_my_unread);
 
 
-//        main_emp_icon = (ImageView) findViewById(R.id.main_emp_icon);
-//        main_group_icon = (ImageView) findViewById(R.id.main_group_icon);
-//        main_phone_icon = (ImageView) findViewById(R.id.main_phone_icon);
+        main_emp_icon = (ImageView) findViewById(R.id.main_emp_icon);
+        main_group_icon = (ImageView) findViewById(R.id.main_group_icon);
+        main_phone_icon = (ImageView) findViewById(R.id.main_phone_icon);
         main_search_icon = (ImageView) findViewById(R.id.main_search_icon);
         main_find_icon = (ImageView) findViewById(R.id.main_find_icon);
         main_title_text = (TextView) findViewById(R.id.main_title_text);
@@ -245,7 +246,7 @@ public class MainActivity extends ActivitySupport implements
 
     private void checkNew() {
         VersionManager vm = VersionManager.getSharedInstance();
-        vm.checkVersionUpgrade(true, this, new VersionManager.OnUpgradeResultListener() {
+        vm.checkVersionUpgrade(true,this, new VersionManager.OnUpgradeResultListener() {
             @Override
             public void onUpgradeResult(boolean success, String msg) {
 
@@ -471,16 +472,15 @@ public class MainActivity extends ActivitySupport implements
         }
 
         if (position == 0) {
-//            main_emp_icon.setVisibility(View.GONE);
+            main_emp_icon.setVisibility(View.VISIBLE);
             main_title_text.setVisibility(View.VISIBLE);
             main_search_icon.setVisibility(View.GONE);
-//            main_phone_icon.setVisibility(View.VISIBLE);
+            main_phone_icon.setVisibility(View.VISIBLE);
             main_find_icon.setVisibility(View.VISIBLE);
-//            main_group_icon.setVisibility(View.VISIBLE);
+            main_group_icon.setVisibility(View.VISIBLE);
             main_refresh_icon.setVisibility(View.GONE);
             main_title_text.setText("和佳");
-//            main_title_text.setText("美正");
-//            main_title_text.setTextColor(0xff27a4e3);
+            main_title_text.setTextColor(0xff27a4e3);
             if (mToast != null) {
                 mToast.cancel();
 
@@ -488,14 +488,14 @@ public class MainActivity extends ActivitySupport implements
 
         }
         if (sputil.isWorkFlow() && position == 1) {
-//            main_emp_icon.setVisibility(View.GONE);
+            main_emp_icon.setVisibility(View.GONE);
             main_title_text.setVisibility(View.VISIBLE);
             main_search_icon.setVisibility(View.VISIBLE);
-//            main_phone_icon.setVisibility(View.GONE);
+            main_phone_icon.setVisibility(View.GONE);
             main_find_icon.setVisibility(View.GONE);
-//            main_group_icon.setVisibility(View.GONE);
-            main_refresh_icon.setVisibility(View.GONE);
-//            main_title_text.setTextColor(0xff27a4e3);
+            main_group_icon.setVisibility(View.GONE);
+            main_refresh_icon.setVisibility(View.VISIBLE);
+            main_title_text.setTextColor(0xff27a4e3);
             main_search_icon.setOnClickListener(new OnClickListener() {
                 @Override
                 public void onClick(View v) {
@@ -516,13 +516,13 @@ public class MainActivity extends ActivitySupport implements
             }
         }
         if ((sputil.isWorkFlow() && position == 2) || (!sputil.isWorkFlow() && position == 1)) {
-//            main_emp_icon.setVisibility(View.GONE);
+            main_emp_icon.setVisibility(View.GONE);
             main_title_text.setVisibility(View.VISIBLE);
             main_search_icon.setVisibility(View.GONE);
-//            main_phone_icon.setVisibility(View.GONE);
+            main_phone_icon.setVisibility(View.GONE);
             main_find_icon.setVisibility(View.GONE);
-//            main_title_text.setTextColor(0xff27a4e3);
-//            main_group_icon.setVisibility(View.GONE);
+            main_title_text.setTextColor(0xff27a4e3);
+            main_group_icon.setVisibility(View.GONE);
             main_refresh_icon.setVisibility(View.VISIBLE);
             main_refresh_icon.setOnClickListener(new OnClickListener() {
                 @Override
@@ -545,14 +545,14 @@ public class MainActivity extends ActivitySupport implements
             }
         }
         if ((sputil.isWorkFlow() && position == 3) || (!sputil.isWorkFlow() && position == 2)) {
-//            main_emp_icon.setVisibility(View.GONE);
+            main_emp_icon.setVisibility(View.GONE);
             main_title_text.setVisibility(View.VISIBLE);
             main_search_icon.setVisibility(View.GONE);
-//            main_phone_icon.setVisibility(View.GONE);
-            main_find_icon.setVisibility(View.GONE);
-//            main_group_icon.setVisibility(View.GONE);
-//            main_title_text.setTextColor(0xff27a4e3);
-            main_refresh_icon.setVisibility(View.GONE);
+            main_phone_icon.setVisibility(View.GONE);
+            main_find_icon.setVisibility(View.VISIBLE);
+            main_group_icon.setVisibility(View.GONE);
+            main_title_text.setTextColor(0xff27a4e3);
+            main_refresh_icon.setVisibility(View.VISIBLE);
             main_refresh_icon.setOnClickListener(new OnClickListener() {
                 @Override
                 public void onClick(View v) {
@@ -566,13 +566,13 @@ public class MainActivity extends ActivitySupport implements
 
         }
         if ((sputil.isWorkFlow() && position == 4) || (!sputil.isWorkFlow() && position == 3)) {
-//            main_emp_icon.setVisibility(View.GONE);
+            main_emp_icon.setVisibility(View.GONE);
             main_title_text.setVisibility(View.VISIBLE);
             main_search_icon.setVisibility(View.GONE);
-//            main_phone_icon.setVisibility(View.VISIBLE);
-            main_find_icon.setVisibility(View.GONE);
-//            main_title_text.setTextColor(0xff27a4e3);
-//            main_group_icon.setVisibility(View.VISIBLE);
+            main_phone_icon.setVisibility(View.VISIBLE);
+            main_find_icon.setVisibility(View.VISIBLE);
+            main_title_text.setTextColor(0xff27a4e3);
+            main_group_icon.setVisibility(View.VISIBLE);
             main_refresh_icon.setVisibility(View.GONE);
             if (mToast != null) {
                 mToast.cancel();
@@ -588,29 +588,29 @@ public class MainActivity extends ActivitySupport implements
                 startActivity(intent);
             }
         });
-//        main_phone_icon.setOnClickListener(new OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent();
-//                if (isAvilible("com.google.android.contacts")) {
-//                    intent.setClassName("com.google.android.contacts",
-//                            "com.android.contacts.activities.PeopleActivity");
-//                } else {
-//                    intent.setClassName("com.android.contacts",
-//                            "com.android.contacts.activities.PeopleActivity");
-//                }
-//
-//                startActivity(intent);
-//            }
-//        });
-//        main_group_icon.setOnClickListener(new OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(getContext(),
-//                        SelectGroupChatMemberDeptActivity.class);
-//                startActivity(intent);
-//            }
-//        });
+        main_phone_icon.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                if (isAvilible("com.google.android.contacts")) {
+                    intent.setClassName("com.google.android.contacts",
+                            "com.android.contacts.activities.PeopleActivity");
+                } else {
+                    intent.setClassName("com.android.contacts",
+                            "com.android.contacts.activities.PeopleActivity");
+                }
+
+                startActivity(intent);
+            }
+        });
+        main_group_icon.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getContext(),
+                        SelectGroupChatMemberDeptActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     private boolean isAvilible(String packageName) {

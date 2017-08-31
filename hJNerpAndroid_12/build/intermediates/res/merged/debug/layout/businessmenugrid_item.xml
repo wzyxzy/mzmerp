@@ -14,8 +14,8 @@
 
         <ImageView
             android:id="@+id/imagegrid"
-            android:layout_width="@dimen/abc_square_image_size35"
-            android:layout_height="@dimen/abc_square_image_size35"
+            android:layout_width="88px"
+            android:layout_height="88px"
             android:layout_centerInParent="true"
             android:background="#00000000"
             android:src="@drawable/recommend_from_qrcode" />
@@ -44,7 +44,7 @@
         android:maxEms="6"
         android:maxLines="2"
         android:text="类型1"
-        android:textColor="#302b2b"
+        android:textColor="#696969"
         android:textSize="14sp" />
 
 
