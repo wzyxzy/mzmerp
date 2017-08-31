@@ -1,2 +1,2 @@
-include ':hJNerpAndroid_12', ':goodapplication'
+include ':hJNerpAndroid_12'
 include ':librarys'

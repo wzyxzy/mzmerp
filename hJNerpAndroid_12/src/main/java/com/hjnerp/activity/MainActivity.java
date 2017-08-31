@@ -472,7 +472,7 @@ public class MainActivity extends ActivitySupport implements
         }
 
         if (position == 0) {
-            main_emp_icon.setVisibility(View.VISIBLE);
+            main_emp_icon.setVisibility(View.GONE);
             main_title_text.setVisibility(View.VISIBLE);
             main_search_icon.setVisibility(View.GONE);
             main_phone_icon.setVisibility(View.VISIBLE);

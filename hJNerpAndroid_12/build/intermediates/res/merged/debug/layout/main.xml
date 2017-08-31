@@ -16,7 +16,8 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:gravity="center_vertical">
+            android:layout_centerInParent="true"
+            android:gravity="center">
 
             <com.hjnerp.widget.BubbleImageView
                 android:id="@+id/main_emp_icon"
@@ -37,13 +38,14 @@
 
             <TextView
                 android:id="@+id/main_title_text"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
                 android:layout_marginStart="20dp"
                 android:text="和佳"
+
                 android:textColor="@color/actionbar_bg_color"
-                android:textSize="22sp" />
+                android:textSize="18sp" />
             <!--android:text="美正"-->
 
         </LinearLayout>

@@ -16,6 +16,7 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:layout_centerInParent="true"
             android:gravity="center">
 
             <com.hjnerp.widget.BubbleImageView
@@ -27,7 +28,6 @@
                 android:adjustViewBounds="true"
                 android:gravity="center"
                 android:src="@drawable/icon2"
-                android:visibility="gone"
                 app:bubble_angle="18dp"
                 app:bubble_arrowHeight="0dp"
                 app:bubble_arrowLocation="right"
@@ -43,6 +43,7 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginStart="20dp"
                 android:text="和佳"
+
                 android:textColor="@color/actionbar_bg_color"
                 android:textSize="18sp" />
             <!--android:text="美正"-->
