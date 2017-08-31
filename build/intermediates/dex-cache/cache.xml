@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\ht380a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afa42cc66c4967f902af74846b5122924d27f963">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\ht380a_cd8f4e9f8164a8c00c2248c7b0584da22019903b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_f2819b8c2bcaab1c890ef08c366c979ee2df7ec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\nineoldandroids-2.4.0_8762ed401a6cf791e93e4d8e8297c014c754c203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\zbar_10c05857325b56cb29e18632aadac7d828077e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3_f2819b8c2bcaab1c890ef08c366c979ee2df7ec7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\zbar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\zbar_10c05857325b56cb29e18632aadac7d828077e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a898d1368658f19b9e9799ab1d3fcb6d01b45875">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_b07d671c9f35c083be78ca47724dc472554bdde5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_8762ed401a6cf791e93e4d8e8297c014c754c203\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a898d1368658f19b9e9799ab1d3fcb6d01b45875">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\BaiduLBS_Android_b07d671c9f35c083be78ca47724dc472554bdde5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\core_32333c1dd365d467a90b6a0c75247fcbf54519fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2964a2000ad8c148d5be6e8df7261dbcfaeb4df">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b1593b84ad755481090f72d79beb13e2522e67f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\core_32333c1dd365d467a90b6a0c75247fcbf54519fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\testinagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74c9dd0f470774ce814613041f04adeecc803900">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\testinagent_4fffe72796cbdabcc1a4082c8ad7bd6c5da76059.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\testinagent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74c9dd0f470774ce814613041f04adeecc803900">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\testinagent_4fffe72796cbdabcc1a4082c8ad7bd6c5da76059\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\achartengine-1.1.0_bb98116536be836cc96a240846e2d86000eeb877.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\XPermissions.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1c5cab4402d70be61aa350a834cec9ac3cbb47a">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\XPermissions_21de901d10bca11e26e6f45342725393b63e1388\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\XPermissions.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1c5cab4402d70be61aa350a834cec9ac3cbb47a">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\XPermissions_21de901d10bca11e26e6f45342725393b63e1388.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_bb98116536be836cc96a240846e2d86000eeb877\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\librarys\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6db0dafedfe00e288687185995bcff0d276e68e">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\classes_b143468ed479b828ccf94163d43e048de7ae055b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a0ee9935cfff69f8c960756d508a7d86436f6c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\httpmime-4.2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270386011895bc6c7ee6496fd87511d6a98093c1">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.6_a47ba5c15dcf71dce2c286cec6d79f2c1767a444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\voaacencoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f6f934b603f872d37d5c5096921c759e216304">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\voaacencoder_26525cf43faa143f8c478cf778348e04e3ba4c04\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\voaacencoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f6f934b603f872d37d5c5096921c759e216304">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\voaacencoder_26525cf43faa143f8c478cf778348e04e3ba4c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\httpmime-4.2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270386011895bc6c7ee6496fd87511d6a98093c1">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\pre-dexed\release\httpmime-4.2.6_a47ba5c15dcf71dce2c286cec6d79f2c1767a444.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\libs\ht380a.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afa42cc66c4967f902af74846b5122924d27f963">
+        <dex dex="D:\hejia\HJme\HJme\svn\hJNerpAndroid_12\build\intermediates\transforms\dex\debug\folders\1000\2\ht380a_cd8f4e9f8164a8c00c2248c7b0584da22019903b\classes.dex" />
+    </item>
+
+</items>

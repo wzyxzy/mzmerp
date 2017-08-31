@@ -1,0 +1,2 @@
+include ':hJNerpAndroid_12', ':goodapplication'
+include ':librarys'

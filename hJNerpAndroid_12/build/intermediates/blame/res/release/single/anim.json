@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\leftbottom_in.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\leftbottom_in.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\0940be03b0d8d322f9402b4143cb953dca1b656c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\edit_text.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\edit_text.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\librarys\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\head_out.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\head_in.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\select_popup_window_exit.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\select_popup_window_exit.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\0940be03b0d8d322f9402b4143cb953dca1b656c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\0940be03b0d8d322f9402b4143cb953dca1b656c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\librarys\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\audioplayframe_left.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\audioplayframe_left.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\librarys\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\select_popup_window_enter.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\select_popup_window_enter.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\cancel_rc2.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\cancel_rc2.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\audioplayframe_right.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\audioplayframe_right.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\librarys\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\cancel_rc.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\anim\\cancel_rc.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\0940be03b0d8d322f9402b4143cb953dca1b656c\\output\\res\\anim\\design_fab_in.xml"
+    }
+]

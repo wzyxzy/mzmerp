@@ -1,0 +1,7 @@
+#Wed Aug 30 14:13:30 CST 2017
+base.0=D\:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0ee9935cfff69f8c960756d508a7d86436f6c8d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b1593b84ad755481090f72d79beb13e2522e67f\\classes.dex
+base.1=D\:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3b1593b84ad755481090f72d79beb13e2522e67f
+file.0=D\:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a0ee9935cfff69f8c960756d508a7d86436f6c8d\\classes.dex
