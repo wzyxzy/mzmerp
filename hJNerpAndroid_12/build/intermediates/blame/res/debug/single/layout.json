@@ -4,44 +4,44 @@
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\adding_friend.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\menu_grid_item.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\menu_grid_item.xml"
-    },
-    {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\locktablecontentview.xml",
         "source": "C:\\Users\\zy\\.android\\build-cache\\efda0e4806ba77296d7dc1b28d18fb862315eaf5\\output\\res\\layout\\locktablecontentview.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\menu_grid_item.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\menu_grid_item.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\workdetail_item.xml",
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\workdetail_item.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left_text.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\chat_left_text.xml"
-    },
-    {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hjtext_vertical.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\layout_hjtext_vertical.xml"
-    },
-    {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\businessactivity.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\businessactivity.xml"
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left_text.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\chat_left_text.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\friendinfo.xml",
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\friendinfo.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\bussness_horizontallistview_item.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\bussness_horizontallistview_item.xml"
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\businessactivity.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\businessactivity.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hjtext_vertical.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\layout_hjtext_vertical.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\zy\\.android\\build-cache\\0940be03b0d8d322f9402b4143cb953dca1b656c\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\bussness_horizontallistview_item.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\bussness_horizontallistview_item.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\collapsibleview.xml",
@@ -116,12 +116,12 @@
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\spinner_item_hint2.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left_pic.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\chat_left_pic.xml"
-    },
-    {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\workfragmentlist_foot.xml",
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\workfragmentlist_foot.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left_pic.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\chat_left_pic.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\businessactivity_fragment.xml",
@@ -208,12 +208,12 @@
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\layout_search_list_item.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\groupchatselectmember.xml",
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\groupchatselectmember.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\zy\\.android\\build-cache\\534f70037e7ecf12ccb96a59146ebcbf5fc35716\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\file_list.xml",
@@ -228,12 +228,12 @@
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\layout_hjattendance.xml"
     },
     {
-        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice_simple.xml",
-        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\dialog_notice_simple.xml"
-    },
-    {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\allfriendsverfify_item.xml",
         "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\allfriendsverfify_item.xml"
+    },
+    {
+        "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_notice_simple.xml",
+        "source": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\src\\main\\res\\layout\\dialog_notice_simple.xml"
     },
     {
         "merged": "D:\\hejia\\HJme\\HJme\\svn\\hJNerpAndroid_12\\build\\intermediates\\res\\merged\\debug\\layout\\travel_item.xml",
